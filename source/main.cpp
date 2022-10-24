@@ -1,6 +1,6 @@
 #include <nds.h>
 #include <stdio.h>
-#include <nf_lib.h>
+#include "nf_lib.h"
 #include "starField.h"
 #include "planet.h"
 #include "splash.h"
