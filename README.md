@@ -1,5 +1,7 @@
 # nds_vscode_template
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+hello i have no idea what to make this to also do not judge my skills just give constructive feedback
+as you can read this is my first DS(maybe DSi too) homebrew app
+down here is the normal read me text from the template i used 
 
 Develop Nintendo DS homebrew in a modern Visual Studio Code development environment.
 
