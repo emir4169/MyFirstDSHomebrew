@@ -8,6 +8,7 @@ u16 Pressed;
 u16 Held;
 u16 Released;
 int main(void) {
+scanKeys();
 lcdMainOnBottom();
 consoleDemoInit();
 sprintf(Text, "%s", RealText);
